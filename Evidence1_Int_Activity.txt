@@ -1,7 +1,7 @@
 Team 3:
 
 Alejandro: 
-	Car (Pick-up truck), GitHub curating, Basic Board, Car size uniformity, Problem engineering, Mesa starting point
+	Car (Pick-up truck), GitHub curating, Map translation in Excel, Basic Board, Car size uniformity, Problem engineering, Mesa starting point
 Moisés: 
 	Roads, lights, stoplights, Car (Cybertruck)
 Josué: 
@@ -19,3 +19,7 @@ https://assetstore.unity.com/packages/3d/props/greek-statue-190814
 Link to Team repo:
 
 https://github.com/202313-tc2008b/t3_ipractice
+
+Link to my repo A01656017:
+
+https://github.com/202313-tc2008b/A01656017
